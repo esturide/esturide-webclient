@@ -1,9 +1,10 @@
 # esturide-webclient
 
-![ReactJS](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-Style-%23CC6699?style=for-the-badge&logo=sass)
+![ReactJS](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Build with NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-Style-%23CC6699?style=for-the-badge&logo=sass)
+![Tailwind](https://img.shields.io/badge/Tailwind-Style-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 This repository houses the source code for the client application, which interacts with the server to provide a complete experience to the end user. The application is developed using the latest technologies and frameworks, ensuring optimal performance, intuitive interface and smooth user experience.
 
